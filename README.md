@@ -1,4 +1,4 @@
-# Naveen Kumar Yadav's 2023 Portfolio
+# Naveen Kumar Yadav's Portfolio
 
 Please checkout https://naveen-kumar-yadav.netlify.app/
 
